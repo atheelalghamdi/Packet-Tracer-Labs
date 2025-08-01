@@ -36,4 +36,6 @@ This lab demonstrates static and summary routing across four LANs and an ISP con
 ## 🔧 Tools Used:
 - Cisco Packet Tracer (Latest version)
 
+```bash
+
 Kindly-Note: The first ICMP ping may fail due to initial ARP resolution and route setup. Subsequent pings should be successful.
